@@ -61,6 +61,8 @@ function renderTrackerCheckpoints() {
         `
     }).join('')
 
+    console.log('testsetst')
+
     $trackerElements.container.toggleClass('hide', itemsQuantity === 0)
     $trackerElements.checkpoints.empty();
     $trackerElements.checkpoints.append(html)
