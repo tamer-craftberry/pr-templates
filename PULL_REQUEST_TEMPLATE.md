@@ -1,7 +1,8 @@
 ## Context
 
   1. Short and clean sentence about the problem/task. `Required`
-  2. Share the task link. `Required`
+  2. Share a task link. `Required`
+  3. Share a preview link. `Required`
  
                
 ## Solution
